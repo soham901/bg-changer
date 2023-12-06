@@ -18,7 +18,7 @@ A simple background color changer app built with React, Vite, and Tailwind CSS.
 [Image of a screenshot of the app]
 
 ## Live Site
-[Visit]()
+[Visit](https://soham901.github.io/bg-changer)
 
 ## Setup
 
